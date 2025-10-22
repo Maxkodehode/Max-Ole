@@ -1,17 +1,23 @@
 * {
-  margin: 0;
-  padding: 0;
+
+ margin: 0;
+ padding: 0;
+ 
 }
+
+
 h1 {
   font-weight: bold;
   font-style: italic;
   font-size: 130px;
   padding-top: 140px;
   text-align: center;
-  p {
-    font-size: medium;
-  }
 }
+p{
+    font-size: medium;
+}
+  
+
 #randomNumberDisplay {
   font-size: 100px;
   color: blue;
@@ -25,3 +31,23 @@ button {
   font-size: 20px;
   cursor: pointer;
 }
+
+img{
+
+   max-width: 400px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 50px;
+   padding: 20px;
+   border: 10px solid powderblue;
+   background: blueviolet;
+   border-radius: 20px;
+
+}
+
+.title{
+    text-align: center;
+    color: darkgoldenrod;
+}
+
