@@ -48,6 +48,7 @@ img{
 
 .title{
     text-align: center;
+    text-shadow: 0 5px 5px rgb(30, 16, 76);
     color: rgb(29, 24, 12);
 }
 
