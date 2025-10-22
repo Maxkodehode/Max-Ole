@@ -48,6 +48,11 @@ img{
 
 .title{
     text-align: center;
-    color: darkgoldenrod;
+    color: rgb(29, 24, 12);
+}
+
+body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Casino_slots2.jpg/1200px-Casino_slots2.jpg);
+    background-size: cover;
 }
 
